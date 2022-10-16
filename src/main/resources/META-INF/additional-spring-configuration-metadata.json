@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "com.example.hrwebapp.apiUri",
+      "type": "java.lang.String",
+      "description": "Description for com.example.hrwebapp.apiUri."
+    }
+  ]
+}
